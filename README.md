@@ -13,4 +13,4 @@ Each folder contains a README.md file that has the excercise question.
 - Write a program to implement concurrent chat server that allows current logged in users to communicate one with other.
 - Implementation of concurrent and iterative echo server using both connection and connectionless socket system calls.
 - Implementation of remote command execution using socket system calls.
-- Write a program to encrypt and decrypt the data using RSA and Exchange the key securely using Diffie-Hellman Key exchange protoco`l`
+- Write a program to encrypt and decrypt the data using RSA and Exchange the key securely using Diffie-Hellman Key exchange protocol.
